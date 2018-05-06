@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.vishrant.cbsync.common;
+package info.vishrant.cbsync.common;
 
 import javafx.scene.control.Alert;
 import javafx.scene.control.Alert.AlertType;

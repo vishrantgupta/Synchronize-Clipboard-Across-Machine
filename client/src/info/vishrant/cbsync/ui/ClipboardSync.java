@@ -3,9 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.vishrant.cbsync.ui;
+package info.vishrant.cbsync.ui;
 
-import com.vishrant.cbsync.common.ApplicationContext;
+import info.vishrant.cbsync.common.ApplicationContext;
 import java.io.IOException;
 
 import javafx.application.Application;

@@ -3,10 +3,10 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.vishrant.cbsync.socket;
+package info.vishrant.cbsync.socket;
 
-import com.vishrant.cbsync.common.AppConstant;
-import com.vishrant.cbsync.common.ApplicationContext;
+import info.vishrant.cbsync.common.AppConstant;
+import info.vishrant.cbsync.common.ApplicationContext;
 
 import io.socket.client.IO;
 import io.socket.client.Socket;

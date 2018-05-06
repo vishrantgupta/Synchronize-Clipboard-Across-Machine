@@ -3,9 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.vishrant.cbsync.http;
+package info.vishrant.cbsync.http;
 
-import com.vishrant.cbsync.common.CommonUtilities;
+import info.vishrant.cbsync.common.CommonUtilities;
 import javafx.concurrent.Task;
 
 /**

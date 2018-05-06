@@ -1,6 +1,6 @@
-package com.vishrant.cbsync.clipboard;
+package info.vishrant.cbsync.clipboard;
 
-import com.vishrant.cbsync.socket.SocketConnection;
+import info.vishrant.cbsync.socket.SocketConnection;
 import java.awt.Toolkit;
 import java.awt.datatransfer.Clipboard;
 import java.awt.datatransfer.ClipboardOwner;

@@ -3,14 +3,14 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.vishrant.cbsync.socket;
+package info.vishrant.cbsync.socket;
 
 import java.awt.Toolkit;
 import java.awt.datatransfer.Clipboard;
 import java.awt.datatransfer.StringSelection;
 
-import com.vishrant.cbsync.clipboard.ClipBoardListener;
-import com.vishrant.cbsync.common.ApplicationContext;
+import info.vishrant.cbsync.clipboard.ClipBoardListener;
+import info.vishrant.cbsync.common.ApplicationContext;
 
 import javafx.application.Platform;
 

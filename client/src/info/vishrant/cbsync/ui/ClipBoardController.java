@@ -3,16 +3,16 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.vishrant.cbsync.ui;
+package info.vishrant.cbsync.ui;
 
 import java.net.URL;
 import java.util.ResourceBundle;
 
-import com.vishrant.cbsync.common.AppConstant;
-import com.vishrant.cbsync.common.ApplicationContext;
-import com.vishrant.cbsync.common.DialogBox;
-import com.vishrant.cbsync.http.HttpRequestService;
-import com.vishrant.cbsync.socket.SocketService;
+import info.vishrant.cbsync.common.AppConstant;
+import info.vishrant.cbsync.common.ApplicationContext;
+import info.vishrant.cbsync.common.DialogBox;
+import info.vishrant.cbsync.http.HttpRequestService;
+import info.vishrant.cbsync.socket.SocketService;
 
 import javafx.beans.binding.BooleanBinding;
 import javafx.beans.binding.BooleanExpression;

@@ -3,11 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.vishrant.cbsync.common;
+package info.vishrant.cbsync.common;
 
-import com.vishrant.cbsync.clipboard.ClipBoardListener;
-import com.vishrant.cbsync.socket.SocketConnection;
-import com.vishrant.cbsync.ui.ClipBoardController;
+import info.vishrant.cbsync.clipboard.ClipBoardListener;
+import info.vishrant.cbsync.socket.SocketConnection;
+import info.vishrant.cbsync.ui.ClipBoardController;
 import javafx.scene.control.Button;
 import javafx.scene.control.Label;
 import javafx.scene.control.ProgressIndicator;
