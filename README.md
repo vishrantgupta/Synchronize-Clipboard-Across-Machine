@@ -1,6 +1,7 @@
 # Clipboard Synchronization
 
-Clipboard Synchronization is clipboard manager for synchronizing copied content accross multiple systems.
+This application share data between multiple connected machines using Socket connection. The data is pushed to other connected machines in real time, when clipboard content of anyone of the machine changes.
+
 - [Downloads](https://github.com/vishrantgupta/sync-clipboard/blob/master/ClipboardSync.jar)
 - [Web Site](http://vishrantgupta.info/)
 
