@@ -4,7 +4,7 @@ Clipboard Synchronization is clipboard manager for synchronizing copied content 
 - [Downloads](https://github.com/vishrantgupta/sync-clipboard/blob/master/ClipboardSync.jar)
 - [Web Site](http://vishrantgupta.info/)
 
-![main window](https://github.com/vishrantgupta/sync-clipboard/blob/master/clipboard_sync.png)
+![main window](https://github.com/vishrantgupta/sync-clipboard/blob/master/screenshots/clipboard_sync.png)
 
 ## Overview
 
