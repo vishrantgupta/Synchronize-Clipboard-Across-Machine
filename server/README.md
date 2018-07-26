@@ -1,4 +1,4 @@
-Node.js Chat
+Server based on Node.JS
 ===
 
 This application is made with Node.js, Express, Socket.io and Jade.
@@ -21,7 +21,3 @@ To use it, you need Node.js and those 3 modules.
 
 	- node server.js
 	- Go to IP:port from any (recent) navigator to start chatting !
-
-### Credits
-
-Creator : [Geekuillaume] (http://geekuillau.me/)
